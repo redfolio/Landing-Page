@@ -139,7 +139,8 @@ button {
     align-items: center;
     font-weight: 300;
     font-family: Montserrat, Arial, Helvetica, sans-serif;
-    text-align: left;
+    text-align: center;
+    width:200px;
 }
 
 
@@ -193,4 +194,20 @@ button {
 .action-description{
     font-family: Montserrat, Arial, Helvetica, sans-serif;
     font-weight: 800;
+}
+
+
+.footer {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    background-color: #1F2937;
+}
+
+.copyright-text {
+    color:#e5e7eb;
+    font-family : Montserrat, Arial, Helvetica, sans-serif;
+    font-weight: 300;
+
 }
