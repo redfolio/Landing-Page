@@ -1,9 +1,5 @@
 Hello!
 
-This is the landing page activity provided by The Odin Project!
-
-This is only a sampler of a landing page. Only baseform.
-
-
+This is only a sampler of a landing page. Only baseform, Using HTML 5 and CSS 3 [Flexbox Layout]
 
 Thank you!
